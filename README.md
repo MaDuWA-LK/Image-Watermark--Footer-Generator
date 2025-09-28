@@ -38,6 +38,8 @@ cd image-footer-generator
 pip install -r requirements.txt
 python add_footer_desktop.py
 
+---
+
 ## 🛠️ Installation
 
 <p align="center">
