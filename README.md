@@ -24,7 +24,6 @@ Perfect for **photographers, designers, businesses, or branding purposes**.
 - 💾 Saves output in a separate folder  
 - 🎯 Lightweight & easy to run  
 
----
 
 ## 📂 Project Structure
 
