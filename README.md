@@ -45,38 +45,3 @@ git clone https://github.com/YOUR-USERNAME/image-footer-generator.git
 cd image-footer-generator
 pip install -r requirements.txt
 
----
-▶️ Usage
-
-Place your photos in the input_photos/ folder.
-Edit main.py settings:
-input_folder → path to your images
-footer_text → your custom text
-font_path → font file path
-
-Run the script:
-              python main.py
-
-📦 Requirements
-Pillow
-
-
-<p align="center">
-  <a href="https://t.me/DEWENI2">
-    <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="60" alt="Telegram"/>  
-  </a>
-  <a href="https://wa.me/94741386667">
-    <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="60" alt="WhatsApp"/>  
-  </a>
-</p>
-
-<p align="center">
-  👉 <b>Find me on Telegram:</b> <a href="https://t.me/DEWENI2">@deweni2</a>  
-  <br>
-  👉 <b>WhatsApp:</b> <a href="https://wa.me/94741386667">+94741386667</a>  
-</p>
-
-
-
-⭐ If this project helped you, don’t forget to Star ⭐ the repo!
-
