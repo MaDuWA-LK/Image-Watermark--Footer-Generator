@@ -25,14 +25,6 @@ Perfect for **photographers, designers, businesses, or branding purposes**.
 - 🎯 Lightweight & easy to run  
 
 
-## 📂 Project Structure
-
-📂 input_photos/ # place your images here
-📂 photos_with_footer/ # processed output images
-📄 footer.png # (optional logo overlay)
-📄 main.py # main script
-📄 requirements.txt # dependencies
-📄 README.md # documentation
 
 
 ---
