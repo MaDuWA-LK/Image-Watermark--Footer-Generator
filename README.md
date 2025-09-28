@@ -37,11 +37,3 @@ git clone https://github.com/YOUR-USERNAME/image-footer-generator.git
 cd image-footer-generator
 pip install -r requirements.txt
 python add_footer_desktop.py
-
-
-
-
-
-
----
-
